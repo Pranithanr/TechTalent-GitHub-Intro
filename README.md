@@ -20,7 +20,7 @@ Nice to meet you :relaxed: !!
 Today's task list :
 
 - [x] Create and install git
-- [ ] Create readme file
-- [ ] Intro on readme
+- [x] Create readme file
+- [x] Intro on readme
 
-Having a ==lot of fun== getting familiarised to GitHub especially from ==Command Line Interface== ! :smiley:
+Having a == lot of fun == getting familiarised to GitHub especially from == Command Line Interface == ! :smiley:
