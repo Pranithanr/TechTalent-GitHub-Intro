@@ -1,1 +1,1 @@
-"# TechTalent GitHub Intro" 
+# TechTalent GitHub Intro
